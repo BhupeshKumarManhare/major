@@ -1,0 +1,19 @@
+<strong>bhupesh</strong>: its working and now its live
+<br>
+<strong>rajan</strong>: hello bhupesh
+<br>
+<strong>rajan</strong>: working happy now
+<br>
+<strong>ravi</strong>: plz help me guys for assignment
+<br>
+
+<strong>rajan</strong>: yes
+<br>
+<strong>rajan</strong>: import random import itertools  results = {     'heads': 0,     'tails': 0, } sides = list(results.keys())  for i in range(10000):     results[random.choice(sides)] += 1  print('Heads:', results['heads']) print('Tails:', results['tails'])
+<br>
+<strong>rajan</strong>: what is page fault explain?
+<br>
+<strong>bhupesh</strong>: 2 mint
+<br>
+<strong>rajan</strong>: thanks
+<br>
